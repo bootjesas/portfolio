@@ -171,7 +171,7 @@ import {
     },
     {
       name: "SalaMe game",
-      description: "SalaMe is een local based game in hertje van stad anwerpen. Het is de bedoeling dat je alle ingrediënten voor de pizza's van klanten terug vindt. Het is geschreven met javascript",
+      description: "SalaMe is een local based game in hartje van stad anwerpen. Het is de bedoeling dat je alle ingrediënten voor de pizza's van klanten terug vindt. Het is geschreven met javascript",
       tags: [
         {
           name: "figma",
@@ -196,7 +196,7 @@ import {
     },
     {
       name: "Velo app",
-      description: "De velo app is een app voor alle gebruikers van velo fietjes in antwerpen. Die zo kunnen zien waar er nog een fietsje vrij is. Met behulp van Api Key.",
+      description: "De velo app is een app voor alle gebruikers van velo fietsjes in antwerpen. Die zo kunnen zien waar er nog een fietsje vrij is. Met behulp van Api Key.",
       tags: [
         {
           name: "Figma",
