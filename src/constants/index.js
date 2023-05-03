@@ -76,7 +76,7 @@ import {
   
   const experiences = [
     {
-      title: "AP Hoge school",
+      title: "AP Hogeschool",
       company_name: "Grafische en digitale media",
       icon: codecademy,
       iconBg: "#204056",
@@ -88,7 +88,7 @@ import {
       ],
     },
     {
-      title: "AP Hoge school",
+      title: "AP Hogeschool",
       company_name: "Grafische en digitale media",
       icon: codecademy,
       iconBg: "#204056",
@@ -100,7 +100,7 @@ import {
       ],
     },
     {
-      title: "AP hoge school",
+      title: "AP hogeschool",
       company_name:"Grafische en digitale media",
       icon: codecademy,
       iconBg: "#204056",
@@ -112,7 +112,7 @@ import {
       ],
     },
     {
-      title: "AP hoge school",
+      title: "AP hogeschool",
       company_name: "Grafische en digitale media",
       icon: codecademy,
       iconBg: "#204056",
