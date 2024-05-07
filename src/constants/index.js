@@ -15,6 +15,10 @@ import {
     jammming,
     fitclub,
     infopilot,
+    jammming1,
+    paypalcrypto,
+    fitclub1,
+
   } from "../assets";
   
   export const navLinks = [
@@ -116,13 +120,25 @@ import {
       company_name: "Grafische en digitale media",
       icon: codecademy,
       iconBg: "#204056",
-      date: "1 Jan - Present",
+      date: "1 Jan 2023 - 31 Dec 2023",
       points: [
         "github gebruiken",
         "JavaScript canvas ",
         "Asynchroon JavaScript",
         "Web Apps",
         "React Framework"
+      ],
+    },
+    {
+      title: "AP hogeschool",
+      company_name:"Grafische en digitale media",
+      icon: codecademy,
+      iconBg: "#204056",
+      date: "1 jan 2024 -  present",
+      points: [
+        "stage mark&think",
+        "Internationaal project",
+        "wordpress/elementor/shopify",
       ],
     },
   ];
@@ -215,6 +231,53 @@ import {
       image: fitclub,
       source_code_link: "https://github.com/bootjesas/opdracht-react-",
       demo_link: "https://www.figma.com/proto/VXAK5MNO7S8BFgv92DDddW/coding?page-id=0%3A1&node-id=16-10&starting-point-node-id=16%3A10"
+    },
+
+    {
+      name: "Paypal crypto",
+      description: "Paypal crypto is een app voor hardcore crypto gebruikers die snel willen wisselen maar ook geld willen overschrijven naar hun vrienden,collega's of familie.",
+      tags: [
+        {
+          name: "Figma",
+          color: "blue-text-gradient",
+        },
+        
+      ],
+      image: paypalcrypto,
+      source_code_link: "https://www.figma.com/file/fbhasSGBLJ2PxT5rFh5kmB/paypal?type=design&node-id=94%3A294&mode=design&t=KNUDDFm9R8dBrFeR-1",
+      demo_link: "https://www.figma.com/file/fbhasSGBLJ2PxT5rFh5kmB/paypal?type=design&node-id=94%3A294&mode=design&t=KNUDDFm9R8dBrFeR-1"
+    },
+    {
+      name: "Quickbites",
+      description: "Quickbites heb ik ontworpen voor mijn bachelor proef. Het is een app voor bezorgers om meer in contact te staan met hun klanten en sneller te kunnen leveren.",
+      tags: [
+        {
+          name: "figma",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jammming1,
+      source_code_link: "https://www.figma.com/file/CsaVLu2W4JAmlSM6i166eI/eind-product?type=design&node-id=0%3A1&mode=design&t=i8XkVtGlv6owthvs-1",
+      demo_link: "https://www.figma.com/file/CsaVLu2W4JAmlSM6i166eI/eind-product?type=design&node-id=0%3A1&mode=design&t=i8XkVtGlv6owthvs-1"
+    },
+    {
+      name: "Mark&think",
+      description: "Op vraag van mijn stageplaats heb ik een nieuw design gemaakt voor hun website. Hiervoor ben ik aan de slag gegaan in wordpress en elementor. ",
+      tags: [
+      
+        {
+          name: "wordpress",
+          color: "green-text-gradient",
+        },
+      
+        {
+          name: "elementor",
+          color: "pink-text-gradient",
+        },
+      ],
+      image:fitclub1,
+      source_code_link: "https://mark-think.be/home/",
+      demo_link: "https://mark-think.be/home/"
     },
   ];
   

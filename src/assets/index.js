@@ -21,7 +21,12 @@ import codecademy from "./company/codecademy.png";
 
 import jammming from "./jammming.png";
 import fitclub from "./fitclub.png";
-import infopilot from './infopilot.png'
+import infopilot from "./infopilot.png";
+import paypalcrypto from "./paypalcrypto.png";
+import jammming1 from "./jamming1.png";
+import fitclub1 from "./fitclub1.png";
+
+
 
 export {
   logo,
@@ -45,4 +50,7 @@ export {
   jammming,
   fitclub,
   infopilot,
+  jammming1,
+  fitclub1,
+  paypalcrypto,
 };

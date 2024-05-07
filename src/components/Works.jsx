@@ -69,7 +69,7 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link, 
             href={demo_link}
             target='_blank'
           >
-            See the Demo
+            See the project
           </a>
         </div>
       </Tilt>
